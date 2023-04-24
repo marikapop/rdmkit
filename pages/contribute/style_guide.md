@@ -35,7 +35,7 @@ In general, we follow the European Commission's [Web Writing Style Guide](https:
       * a longer item 1;
       * a longer item 2;
       * a longer item 3.
-    * _A list following a complete sentence (with a full stop)_: each item ends with a full stop and each point begins with a capital letter e.g. This a complete sentence.
+    * _A list following a complete sentence (with a full stop)_: each item ends with a full stop and each point begins with a capital letter e.g. This is a complete sentence.
       * This is item 1 of the list.
       * This is item 2 of the list.
       * This is item 3 of the list.
