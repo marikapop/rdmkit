@@ -32,11 +32,11 @@ In general, we follow the European Commission's [Web Writing Style Guide](https:
     * _A list of short items_: introduce with a colon, start each bullet point with a capital and don't use punctuation at the end of each bullet point:
       * Item 1
       * Item 2
-    * _A list of longer items following an incomplete introductory sentence (e.g. a sentence ending in a colon)_: each item ends with a semi colon and the final item ends with a full stop. Do not capitalise the first letter of each item e.g. This is the first part of a sentence that includes:
+    * _A list of longer items following an incomplete introductory sentence (e.g. a sentence ending in a colon)_: each item ends with a semicolon and the final item ends with a full stop. Do not capitalise the first letter of each item e.g. This is the first part of a sentence that includes:
       * a longer item 1;
       * a longer item 2;
       * a longer item 3.
-    * _A list following a complete sentence (with a full stop)_: each item ends with a full stop and each point begins with a capital letter e.g. This a complete sentence.
+    * _A list following a complete sentence (with a full stop)_: each item ends with a full stop and each point begins with a capital letter e.g. This is a complete sentence.
       * This is item 1 of the list.
       * This is item 2 of the list.
       * This is item 3 of the list.
